@@ -7,7 +7,7 @@ This project demonstrates the use of the `transformers` library to fine-tune a p
 - Jupyter Notebook
 
 ## Installation
-<code>git clone https://github.com/yourusername/customer-support-chatbot.git</code>
+<code>git clone https://github.com/yourusername/customer-support-chatbot.git</code><br>
 <code>cd customer-support-chatbot</code>
 
 ## Project Overview
